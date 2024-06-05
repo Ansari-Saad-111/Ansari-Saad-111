@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a IT Engineering Student
-- 👀 I’m interested in Technology and learning new coding languages
+- 👋 Hi, I’m a final year IT Engineering Student
+- 👀 I’m interested in Technology and learning new skills
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 📫 Reach me at saadammar0123@gmail.com
 
