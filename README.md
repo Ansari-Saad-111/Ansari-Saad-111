@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m a final year IT Engineering Student</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h5 align="center">Currently learning ReactJS and NodeJS </h5>
+<h5 align="center">Currently learning NodeJS </h5>
 <h5 align="center">📫 Reach me at saadammar0123@gmail.com </h5>
 <!-- <h5 align="center"> 👨‍💻 All of my projects are available at </h5> -->
 
